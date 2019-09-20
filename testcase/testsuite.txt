@@ -1,0 +1,10 @@
+102400 6 0.16 0 ./testcase/1_result.txt 
+512000 5 0.15 1 ./testcase/2_result.txt 
+102400 6 0.13 2 ./testcase/3_result.txt
+512000 5 0.15 3 ./testcase/4_result.txt 
+256000 5 0.14 4 ./testcase/5_result.txt 
+204800 6 0.18 5 ./testcase/6_result.txt 
+102400 7 0.19 6 ./testcase/7_result.txt 
+204800 6 0.12 7 ./testcase/8_result.txt 
+204800 5 0.11 8 ./testcase/9_result.txt 
+409600 6 0.12 9 ./testcase/10_result.txt 
